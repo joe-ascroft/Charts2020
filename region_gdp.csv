@@ -1,2 +1,16 @@
-Northland,Auckland,Waikato,Bay of Plenty,Gisborne,Hawke's Bay,Taranaki,Manawatu-Wanganui,Wellington,West Coast,Canterbury,Otago,Southland,Marlborough,Tasman/Nelson
-42104,69974,54128,53700,44004,50251,73029,46764,74251,57101,60101,57974,63084,66277,50960
+Region,GDP
+Northland,42104
+Auckland,69974
+Waikato,54128
+Bay of Plenty,53700
+Gisborne,44004
+Hawke's Bay,50251
+Taranaki,73029
+Manawatu-Wanganui,46764
+Wellington,74251
+West Coast,57101
+Canterbury,60101
+Otago,57974
+Southland,63084
+Marlborough,66277
+Tasman/Nelson,50960
